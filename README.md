@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo]()
+- Solution URL: [Github repo](https://github.com/p-vivek/Interactive-rating-component)
 - Live Site URL: [interactive-rating-component]()
 
 ## My process
@@ -33,8 +33,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [My Github homepage]()
-- Frontend Mentor - [@Hsin-tingCHI]()
+- Website - [My Github homepage](https://github.com/p-vivek/)
+- Frontend Mentor - [@Hsin-tingCHI](https://www.frontendmentor.io/profile/p-vivek)
 
 ## Acknowledgments
 
