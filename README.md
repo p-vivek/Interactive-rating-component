@@ -20,7 +20,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github repo](https://github.com/p-vivek/Interactive-rating-component)
-- Live Site URL: [interactive-rating-component]()
+- Live Site URL: [interactive-rating-component](https://p-vivek.github.io/Interactive-rating-component/)
 
 ## My process
 
