@@ -34,7 +34,7 @@ Users should be able to:
 ## Author
 
 - Website - [My Github homepage](https://github.com/p-vivek/)
-- Frontend Mentor - [@Hsin-tingCHI](https://www.frontendmentor.io/profile/p-vivek)
+- Frontend Mentor - [@p-vivek](https://www.frontendmentor.io/profile/p-vivek)
 
 ## Acknowledgments
 
